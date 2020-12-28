@@ -1,0 +1,25 @@
+{
+  "Hotels": [
+    {
+      "id": 1,
+      "name": "Morava",
+      "phone": 54545,
+      "address": "Dragise Misovic",
+      "email": "morava@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Avenija",
+      "phone": "2758745",
+      "address": "Stoje Tosic",
+      "email": "avenija@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Beograd",
+      "phone": "41163896",
+      "address": "Gradski trg",
+      "email": "bg@gmail.com"
+    }
+  ]
+}

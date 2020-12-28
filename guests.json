@@ -1,0 +1,23 @@
+{
+  "Guests": [
+    {
+      "name": "Sanja",
+      "surname": "Curcic",
+      "phone": 38164851852,
+      "id": 1
+    },
+    {
+      "name": "Lazar",
+      "surname": "Markesevic",
+      "phone": 38164585241,
+      "id": 2
+    },
+    {
+      "name": "Danka",
+      "surname": "Djordjevic",
+      "phone": "38161259637",
+      "id": 3
+    }
+    
+  ]
+}
