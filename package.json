@@ -31,7 +31,6 @@
     "@reactivex/rxjs": "^6.6.3",
     "angular-confirmation-popover": "^6.0.0",
     "angular-material": "^1.2.1",
-    "angular2-jwt": "^0.2.3",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.5.0",
     "font-awesome": "^4.7.0",
