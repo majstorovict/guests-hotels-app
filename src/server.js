@@ -8,11 +8,11 @@ const app = express();
 app.use(express.static('./dist/guest-hotels'));
 
 app.get('/*', (req, res) =>
-    res.sendFile('home.html', {root: 'dist/guest-hotels'}),
+    res.sendFile('home.component.html', {root: 'dist/guest-hotels'}),
 );
 
 // Start the app by listening on the default Heroku port
-const PORT = process.env.PORT || '4200'
+const PORT = process.env.PORT || '8080'
 app = express();
 
 //set the port
