@@ -12,8 +12,6 @@ app.get('/*', (req, res) =>
 );
 
 // Start the app by listening on the default Heroku port
-const PORT = process.env.PORT || '8080'
-app = express();
-
-//set the port
-app.set("port", PORT)
+app.listen(process.env.PORT || 3000, function(){
+    console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+  });
